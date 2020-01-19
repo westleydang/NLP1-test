@@ -2,7 +2,7 @@
 title: "NLP1 - Prince lyrics"
 author: "westleydang"
 date: "1/16/2020"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
