@@ -1,0 +1,12 @@
+"0","t %>%
+  filter(decade != ""NA"") %>%
+  group_by(word) %>%
+  summarize(count = n()) %>% 
+  top_n(10) %>%
+  arrange(desc(count)) %>% 
+  mutate(word = reorder(word, count)) %>%
+  ggplot() + aes(x = word, y = count) +
+  geom_col() + ggtitle(""Most used words in Prince's lyrics"") +
+  coord_flip()
+"
+"2","Selecting by count"

@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579235294142.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8A7FE11A",
+    "lastKnownWriteTime" : 1579236584,
+    "last_content_update" : 1579236584344,
+    "path" : "~/R/NLP1/Prince Lyrics Analysis 1.Rmd",
+    "project_path" : "Prince Lyrics Analysis 1.Rmd",
+    "properties" : {
+        "cursorPosition" : "170,2",
+        "last_setup_crc32" : "",
+        "scrollLine" : "156",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
